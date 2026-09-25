@@ -1,6 +1,8 @@
 streamlit
 pymupdf
 sentence-transformers
+torch
+torchvision
 chromadb
 google-genai
 python-dotenv
